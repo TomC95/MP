@@ -3,7 +3,7 @@
 Created on Sat Nov  4 22:38:59 2017
 
 Generates SV time series with phi = 0 and attempts to calculate parameters of
-time series. Fails miserably.
+time series.
 
 Known bugs:
     None
